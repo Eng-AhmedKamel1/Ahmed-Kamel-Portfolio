@@ -1,7 +1,7 @@
 import React from 'react'
 import './home.css'
 import Me from '../../assets/profile1.png'
-import CV from '../../assets/Ahmed-Kamel-CV.pdf'
+import CV from '../../assets/Ahmed-Kamel-CV (1).pdf'
 import HomeSocials from './HomeSocials'
 import { ReactTyped } from "react-typed";
 
