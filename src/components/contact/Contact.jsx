@@ -14,7 +14,7 @@ const ContactData =[
     icon:<MdOutlineEmail />,
     title:'Email',
     info:'ahmedkamela335@gmail.com',
-    link:'mailto:ahmedkamela335@gmail.com'
+    link:'https://mail.google.com/mail/?view=cm&to=ahmedkamela335@gmail.com'
   },{
      id:2,
     icon:<RiMessengerLine />,
