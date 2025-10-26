@@ -3,11 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-<<<<<<< HEAD
   "homepage": "https://Eng-AhmedKamel1.github.io/Ahmed-Kamel-Portfolio/",
-=======
-  "homepage": "https://ahmed0000ahme.github.io/portfolio",
->>>>>>> 2d85049131ddc08326a07d182d0eae7c44a7a96a
   "scripts": {
     "dev": "vite",
     "build": "vite build",
