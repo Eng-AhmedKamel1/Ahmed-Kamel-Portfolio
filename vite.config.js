@@ -4,6 +4,11 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  // تأكد من وجود هذا السطر
+  // 1. يحدد المسار الأساسي
   base: '/Ahmed-Kamel-Portfolio/', 
+  
+  // 2. تأكد أن assetsDir (مجلد الأصول) فارغ أو محذوف
+  // إذا كان موجوداً، يجب أن يكون ضمن 'build'
+  
+  // تأكد أنك لا تستخدم الإعدادات القديمة لـ CRA أو Webpack!
 })
