@@ -71,7 +71,7 @@
     .home{
         height: auto;
     }
-    .scroll-down, .home-socials{
+    .scroll-down{
         display: none;
     }
     .home h1{
